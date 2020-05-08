@@ -31,7 +31,7 @@ kubectl create -f login.yaml -n login
 ```
 
 Call URL
-```json
+```ruby
 http://[NodeIP]
 http://login.10.10.10.10.nip.io
 ```
