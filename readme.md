@@ -3,7 +3,7 @@
 
 ![https://github.com/OktaySavdi/kubernetes_login_example](https://user-images.githubusercontent.com/3519706/81250356-763d2900-9029-11ea-8e30-61df78e190ee.png)
 
-Integration of the login application prepared with asp .net core on Kubernet with open source products is provided.
+Integration of the login application prepared with asp .net core on Kubernetes with open source products is provided.
 
 Code repo for image  [github\login_example](https://github.com/OktaySavdi/login_example)
 
