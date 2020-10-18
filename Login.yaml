@@ -20,7 +20,7 @@ spec:
         app: login
     spec:
       containers:
-      - image:  quay.io/oktaysavdi/vault #Code Repo https://github.com/OktaySavdi/login_example
+      - image:  quay.io/oktaysavdi/login #Code Repo https://github.com/OktaySavdi/login_example
         imagePullPolicy: IfNotPresent
         name: login
         ports:
